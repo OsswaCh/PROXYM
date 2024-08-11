@@ -81,9 +81,13 @@ While Process enhancement depends on the type of action being taken, waste can b
 
 #### [Added Value of VSM](https://www.dozuki.com/blog/why-do-value-stream-mapping-benefits-examples#:~:text=Value%20stream%20mapping%2C%20or%20VSM,process%20for%20the%20customer's%20benefit.)
 
-Some of the benefits of adopting VSM into the 
+Some of the benefits of adopting VSM are: 
+- facilitating the identification of wastes and bottlenecks in processes
+- easier continuous improvement as it becomes easier to finetune and streamline processes
+- reduction of time, cost and labor 
+- TODO: add benefits on customer
 
-###  TODO: Grafical representation don’t think this 
+###  TODO: Graphical representation don’t think this 
     
 
 [Value stream mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3259414/)  is designed to map information flows along with material flows, making it more suitable for analyzing and improving complex processes like those in hospitals. VSM provides a holistic view that includes both value-adding and non-value-adding activities.
@@ -1091,7 +1095,7 @@ Continuous Innovation: Foster a culture of continuous innovation and improvement
 
   
 
-# Example for the value stream roadmap application 
+# Examples for the value stream roadmap application 
     
 
 
@@ -1141,154 +1145,120 @@ Billpayement / card management 
 
 ### [Value Stream Mapping for a Bank Loan Process](https://www.hcltech.com/blogs/value-stream-management-in-action-banking-on-transformation)
 
-Before VSM Implementation:
+Let's consider a value stream mapping (VSM) for a bank's loan processing system, focusing on the journey from when a customer applies for a loan to when the loan is approved and disbursed.
 
-Value can be seen in terms of ease of obtaining a loan, customer satisfaction, process duration, simplicity, and overall ease of the process.
+#### **Step 1: Define the Current State (Before)**
 
-1. Customer Application:
-    
+In the current state, the loan processing system may be inefficient, with delays and bottlenecks.
 
-- Customers submit loan applications through various channels (branch, online, phone).
-    
-- Manual data entry into different systems.
-    
+##### **Current State Value Stream Mapping**
 
-3. Initial Review:
+1. **Loan Application Submission**:
     
+    - **Trigger**: Customer submits a loan application online or in-branch.
+    - **Process Time (PT)**: 30 minutes (filling out the application form).
+    - **Lead Time (LT)**: 1 day (waiting for the application to be reviewed).
+    - **Waste**: Manual data entry errors, incomplete applications requiring resubmission.
+2. **Initial Review & Credit Check**:
+    
+    - **Trigger**: The loan officer receives the application and performs an initial review, including a credit check.
+    - **PT**: 1 hour (reviewing the application, running a credit check).
+    - **LT**: 2 days (waiting for the credit report).
+    - **Waste**: Delays in receiving the credit report, redundant manual checks.
+3. **Document Collection & Verification**:
+    
+    - **Trigger**: Customer submits supporting documents (e.g., income proof, ID).
+    - **PT**: 2 hours (customer gathers and submits documents).
+    - **LT**: 3 days (waiting for the document verification process).
+    - **Waste**: Manual document checks, errors, and missing documents.
+4. **Loan Underwriting**:
+    
+    - **Trigger**: The underwriter evaluates the application and supporting documents to assess risk.
+    - **PT**: 3 hours (risk assessment and decision-making).
+    - **LT**: 4 days (waiting for internal reviews and approvals).
+    - **Waste**: Delays in communication between departments, manual risk assessment processes.
+5. **Loan Approval & Documentation**:
+    
+    - **Trigger**: The loan is approved, and the customer is informed to sign the agreement.
+    - **PT**: 1 hour (preparing and sending the loan agreement).
+    - **LT**: 2 days (waiting for the customer to sign and return the agreement).
+    - **Waste**: Delays in signing, manual processing of agreement documents.
+6. **Loan Disbursement**:
+    
+    - **Trigger**: Upon receiving the signed agreement, the loan amount is disbursed.
+    - **PT**: 30 minutes (processing the disbursement).
+    - **LT**: 1 day (waiting for funds to be released).
+    - **Waste**: Processing delays, potential errors in disbursement.
 
-- Loan officers manually review applications.
-    
-- Communication between departments (e.g., risk, underwriting) is siloed.
-    
-- Delays due to manual handoffs.
-    
-
-5. Credit Check:
-    
-
-- Separate systems for credit checks.
-    
-- Manual entry and retrieval of credit reports.
-    
-
-7. Loan Underwriting:
-    
-
-- Underwriters manually assess applications using different criteria.
-    
-- Lack of standardized decision-making tools.
-    
-
-9. Approval/Rejection:
-    
-
-- Manual approval processes with limited automation.
-    
-- Customers notified via separate channels (mail, email, phone).
-    
-
-11. Disbursement:
-    
-
-- Manual fund transfer processes.
-    
-- Inconsistent communication with customers.
-    
+**Total Lead Time**: 13 days  
+**Total Process Time**: 8 hours  
+**Key Issues**: Delays due to manual processes, waiting times between steps, errors, and customer dissatisfaction.
 
 
 
-
-
-Components of value stream 
+Components of the value stream 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRo3RDMjM4ktZGGmeMPFvEjc1uzNSHn4irvp0SfmibyRCQVR8hA_IuQBK19QGaWc11RB8pbOPj1__4WPq__rwOUq5NBIWvCiGMLmgEzTAECjci0kmwqg_4HWU_SH_hXKDKW_RuhjdwFViFkzvs82S03DH4?key=Nu8PMyX64obvw5Muh2vzug)
 
-Analysis phase
+####  **Step 2: Analyze and Identify Waste**
 
-1- Issue Identification: The bank notices its customer satisfaction (CSAT) scores for loan processing are below the industry average.
+The current process has the following forms of waste:
 
-2- Value Stream Management (VSM)
+- **Waiting**: Significant delays between each step, especially during credit checks, document verification, and underwriting.
+- **Defects**: Errors in application submission and document verification leading to rework.
+- **Overprocessing**: Manual reviews and redundant checks that could be automated.
+- **Motion**: Excessive handling of documents and manual data entry.
 
-- The bank must identify the possible value streams that they aim to target 
-    
-- Value Stream Mapping: A visual representation of systems, processes, and people involved is created.
-    
-- Identify Areas of Improvement: Issues are identified, such as lengthy application forms, outdated data processing tools, and cumbersome data points for loan authorization.
-    
+#### **Step 3: Define the Future State (After)**
 
-  
+The future state aims to reduce lead time and process time by automating key steps, improving communication, and eliminating waste.
 
-After VSM Implementation:
+##### **Future State Value Stream Mapping**
 
-1. Customer Application:
+1. **Loan Application Submission**:
     
+    - **Trigger**: Customer submits a loan application through an optimized digital platform.
+    - **PT**: 15 minutes (guided form with real-time validation).
+    - **LT**: Immediate.
+    - **Improvement**: Reduced errors, instant submission, and automated initial checks.
+2. **Initial Review & Credit Check**:
+    
+    - **Trigger**: The system automatically performs an initial review and credit check.
+    - **PT**: 10 minutes (automated credit check and application review).
+    - **LT**: Immediate.
+    - **Improvement**: Automated credit checks, real-time results, and faster initial review.
+3. **Document Collection & Verification**:
+    
+    - **Trigger**: Customer uploads documents via a secure online portal with automated verification.
+    - **PT**: 30 minutes (guided document upload with instant verification).
+    - **LT**: 1 hour (automated document verification).
+    - **Improvement**: Instant validation, reduced manual work, and faster processing.
+4. **Loan Underwriting**:
+    
+    - **Trigger**: The underwriting process is initiated immediately after document verification.
+    - **PT**: 1 hour (automated risk assessment using AI/ML models).
+    - **LT**: 1 day (automated approvals with minimal manual intervention).
+    - **Improvement**: Faster and more accurate risk assessment, reduced manual checks, and streamlined approval.
+5. **Loan Approval & Documentation**:
+    
+    - **Trigger**: The loan is approved, and the customer signs the agreement digitally.
+    - **PT**: 15 minutes (digital signing and immediate processing).
+    - **LT**: Immediate.
+    - **Improvement**: Instant digital signing, automated document processing, no delays in communication.
+6. **Loan Disbursement**:
+    
+    - **Trigger**: The loan is disbursed automatically upon receiving the signed agreement.
+    - **PT**: 15 minutes (automated disbursement process).
+    - **LT**: Immediate.
+    - **Improvement**: Instant disbursement, no waiting for fund release, reduced errors.
 
-- Unified digital platform for loan applications.
-    
-- Automated data entry and integration with CRM.
-    
+**Total Lead Time**: 1 day  
+**Total Process Time**: 2 hours 25 minutes  
+**Key Improvements**:
 
-3. Initial Review:
-    
-
-- Automated pre-screening of applications.
-    
-- Integrated communication platform for real-time collaboration.
-    
-
-5. Credit Check:
-    
-
-- Automated credit checks with integrated credit bureau APIs.
-    
-- Real-time retrieval and analysis of credit reports.
-    
-
-7. Loan Underwriting:
-    
-
-- Standardized underwriting criteria using automated decision tools.
-    
-- Integration with risk assessment models.
-    
-
-9. Approval/Rejection:
-    
-
-- Automated approval processes with predefined criteria.
-    
-- Instant notifications to customers via their preferred channels.
-    
-
-11. Disbursement:
-    
-
-- Automated fund transfer with integrated banking systems.
-    
-- Consistent and automated communication with customers.
-    
-
-Continuous monitoring 
-
-- Once implemented, the bank must monitor the changes and actively assess their effectiveness on customer satisfaction 
-    
-
-#### Analysis
-
-Efficiency Improvements:
-
-6. Time Reduction: Automated data entry, credit checks, and underwriting significantly reduce processing times.
-    
-7. Error Reduction: Automation minimizes manual errors, leading to more accurate data handling.
-    
-8. Customer Experience: Unified platforms and instant notifications enhance customer satisfaction and transparency.
-    
-9. Collaboration: Integrated communication tools break down silos, fostering better collaboration across departments.
-    
-10. Scalability: Standardized and automated processes enable the bank to handle increased volumes efficiently.
-    
-
-  
+- **Reduction in lead time** from 13 days to 1 day.
+- **Streamlined processes**: Automation reduces manual work, errors, and waiting times.
+- **Customer experience**: Faster loan approval and disbursement, leading to higher satisfaction.  
 
 ”In this example, a bank could improve efficiency, reduce costs, and provide a better customer experience by applying value stream management approach to its loan process. Ultimately, this could help the bank to remain competitive and attract more customers.”
 
@@ -1319,132 +1289,345 @@ VSM consortium visualized the employee onboarding value stream map as follows: 
 
 In today's industry, where knowledge workers operate in loosely coupled teams with autonomy, value streams can be applied at any level—from strategic visions to operational tasks. They help communicate how outcomes are achieved and identify the teams and actions involved.
 
-  
+##### **Step 1: Define the Current State (Before)**
 
-#### VSM for external customer onboarding 
+In the current state, the employee onboarding process may suffer from delays, inefficiencies, and miscommunication.
 
-### Before VSM Implementation
+**Current State Value Stream Mapping**
 
-#### 1. Customer Application:
-
-- Channels: Customers apply for loans through multiple channels (in-person, online, phone).
+1. **Job Offer Acceptance**:
     
-- Data Entry: Information is manually entered into different systems.
+    - **Trigger**: Candidate accepts the job offer.
+    - **Process Time (PT)**: 20 minutes (offer letter signed and returned).
+    - **Lead Time (LT)**: 1 day (HR processes acceptance).
+    - **Waste**: Delays in HR communication and confirmation.
+2. **Document Submission & Verification**:
     
-- Delays: Manual data entry and siloed systems lead to delays.
+    - **Trigger**: New hire submits required documents (e.g., ID, certifications).
+    - **PT**: 30 minutes (employee gathers and submits documents).
+    - **LT**: 2 days (waiting for HR to verify documents).
+    - **Waste**: Delays due to manual verification, incomplete submissions.
+3. **Background Check**:
     
-
-#### 2. Initial Review:
-
-- Manual Review: Loan officers manually review applications.
+    - **Trigger**: Initiation of background checks by HR.
+    - **PT**: 1 hour (submitting information to the background check provider).
+    - **LT**: 5 days (waiting for results).
+    - **Waste**: Waiting time for third-party service.
+4. **System Access Provisioning**:
     
-- Siloed Communication: Different departments (risk, underwriting) work in isolation, causing delays.
+    - **Trigger**: IT receives a request to set up system access for the new employee.
+    - **PT**: 2 hours (setting up accounts, email, and access to necessary systems).
+    - **LT**: 3 days (waiting for IT to process request and handle dependencies).
+    - **Waste**: Delays in coordination between HR and IT, rework due to missing information.
+5. **Workspace Setup**:
     
-
-#### 3. Credit Check:
-
-- Separate Systems: Credit checks are done using separate, non-integrated systems.
+    - **Trigger**: Facilities are notified to prepare a workspace for the new employee.
+    - **PT**: 1 hour (setting up desk, phone, and other equipment).
+    - **LT**: 2 days (waiting for availability of resources).
+    - **Waste**: Delays in resource allocation, potential double handling of equipment.
+6. **Orientation & Training**:
     
-- Manual Processes: Credit reports are manually retrieved and entered into the system.
+    - **Trigger**: New employee attends orientation and initial training.
+    - **PT**: 8 hours (full-day orientation session).
+    - **LT**: 3 days (scheduling conflicts and coordination delays).
+    - **Waste**: Inefficient scheduling, repetitive content, and waiting for trainers.
+7. **Compliance & Policy Acknowledgment**:
     
+    - **Trigger**: New employee reviews and acknowledges company policies and compliance documents.
+    - **PT**: 1 hour (reading and signing documents).
+    - **LT**: 1 day (waiting for all forms to be submitted and approved).
+    - **Waste**: Manual tracking of acknowledgments, delays in submission.
 
-#### 4. Loan Underwriting:
+**Total Lead Time**: 17 days  
+**Total Process Time**: 13 hours 50 minutes  
+**Key Issues**: Coordination delays, redundant processes, manual work, and a poor experience for new employees.
 
-- Manual Assessment: Underwriters use varied criteria without standardized tools.
+##### **Step 2: Analyze and Identify Waste**
+
+The current process has several forms of waste:
+
+- **Waiting**: Significant delays at each step, particularly in document verification, background checks, and IT provisioning.
+- **Defects**: Errors in document submission and incomplete setup leading to rework.
+- **Overprocessing**: Manual processes that could be automated.
+- **Motion**: Excessive communication and coordination between departments.
+
+##### **Step 3: Define the Future State (After)**
+
+The future state aims to streamline the process through automation, better communication, and more efficient resource allocation.
+
+##### **Future State Value Stream Mapping**
+
+1. **Job Offer Acceptance**:
     
-- Inconsistencies: Lack of standardized decision-making leads to inconsistencies.
+    - **Trigger**: Candidate accepts the job offer through an integrated HR platform.
+    - **PT**: 10 minutes (digital signature and immediate processing).
+    - **LT**: Immediate.
+    - **Improvement**: Instantaneous confirmation, automated notifications to relevant departments.
+2. **Document Submission & Verification**:
     
-
-#### 5. Approval/Rejection:
-
-- Manual Approval: The approval process is manual with little automation.
+    - **Trigger**: New hire submits documents via an online portal with real-time validation.
+    - **PT**: 15 minutes (guided submission with automated checks).
+    - **LT**: 30 minutes (instant verification using automated tools).
+    - **Improvement**: Eliminated errors and delays, faster document processing.
+3. **Background Check**:
     
-- Delayed Notifications: Customers are notified via mail, email, or phone, causing delays.
+    - **Trigger**: Background check is initiated automatically upon document submission.
+    - **PT**: 10 minutes (automated submission to third-party services).
+    - **LT**: 2 days (expedited processing with selected vendors).
+    - **Improvement**: Faster processing through preferred partnerships, reduced wait times.
+4. **System Access Provisioning**:
     
-
-#### 6. Disbursement:
-
-- Manual Fund Transfer: The process for transferring funds is manual.
+    - **Trigger**: IT receives an automated request to set up access immediately after background check initiation.
+    - **PT**: 30 minutes (automated account creation and access provisioning).
+    - **LT**: 1 day (provisioning completed in parallel with other tasks).
+    - **Improvement**: Automated access setup, simultaneous task processing, reduced lead time.
+5. **Workspace Setup**:
     
-- Inconsistent Communication: Communication with customers about disbursement is inconsistent.
+    - **Trigger**: Workspace setup request is generated automatically upon job acceptance.
+    - **PT**: 30 minutes (standardized setup process).
+    - **LT**: 1 day (workspace ready before the employee's start date).
+    - **Improvement**: Pre-arranged resources, efficient setup without delays.
+6. **Orientation & Training**:
     
-
-### After VSM Implementation
-
-#### 1. Customer Application:
-
-- Unified Platform: A single digital platform is used for all loan applications.
+    - **Trigger**: Employee receives digital access to orientation materials and training schedule.
+    - **PT**: 4 hours (blended learning with self-paced modules and live sessions).
+    - **LT**: 1 day (flexible scheduling with immediate access).
+    - **Improvement**: Streamlined, flexible orientation, reduced scheduling conflicts.
+7. **Compliance & Policy Acknowledgment**:
     
-- Automated Entry: Data entry is automated and integrated with the Customer Relationship Management (CRM) system.
+    - **Trigger**: Automated prompts for policy review and acknowledgment via the HR platform.
+    - **PT**: 30 minutes (digital review and acknowledgment).
+    - **LT**: Immediate.
+    - **Improvement**: Automated tracking and reminders, instant submission.
+
+**Total Lead Time**: 5 days  
+**Total Process Time**: 7 hours 55 minutes  
+**Key Improvements**:
+
+- **Reduction in lead time** from 17 days to 5 days.
+- **Streamlined processes**: Automation reduces manual work, errors, and waiting times.
+- **Employee experience**: Faster onboarding, better communication, and a smoother start.
+
+#### VSM for external customer onboarding
+This process starts from the moment a customer shows interest in the bank up until his full onboarding and beyond to ensure fidelity. 
+### **Step 1: Define the Current State (Before)**
+
+In the current state, the customer onboarding process may be lengthy, with various bottlenecks and inefficiencies.
+
+#### **Current State Value Stream Mapping**
+
+1. **Customer Inquiry**:
     
-
-#### 2. Initial Review:
-
-- Automated Pre-Screening: Applications are pre-screened automatically.
+    - **Trigger**: A potential customer expresses interest in opening an account (via online form, phone call, or in-branch visit).
+    - **Process Time (PT)**: 10 minutes (initial inquiry handled by customer service).
+    - **Lead Time (LT)**: 1 day (waiting for follow-up).
+    - **Waste**: Potential customers often drop off due to delayed follow-up.
+2. **Application Submission**:
     
-- Integrated Communication: Real-time collaboration is enabled through an integrated platform.
+    - **Trigger**: Customer submits the necessary forms and documents.
+    - **PT**: 20 minutes (customer fills out forms, gathers documents).
+    - **LT**: 2 days (waiting for document review).
+    - **Waste**: Manual data entry, incorrect or missing information, and resubmission.
+3. **Document Review & Identity Verification**:
     
-
-#### 3. Credit Check:
-
-- Automated Process: Credit checks are automated with integrated APIs from credit bureaus.
+    - **Trigger**: Bank staff reviews submitted documents and verifies identity.
+    - **PT**: 1 hour (manual verification process).
+    - **LT**: 3 days (waiting for verification completion).
+    - **Waste**: Delays due to manual checks, errors, and the need for additional information.
+4. **Account Setup**:
     
-- Real-Time Analysis: Credit reports are retrieved and analyzed in real-time.
+    - **Trigger**: Upon successful verification, the account is created in the system.
+    - **PT**: 30 minutes (account setup and system entry).
+    - **LT**: 1 day (waiting for system updates and approvals).
+    - **Waste**: Waiting for approvals, system delays.
+5. **Customer Notification**:
     
-
-#### 4. Loan Underwriting:
-
-- Standardized Tools: Underwriting uses standardized criteria with automated decision tools.
+    - **Trigger**: Customer is notified that the account is active.
+    - **PT**: 10 minutes (preparing and sending notification).
+    - **LT**: 1 day (delayed due to manual processes).
+    - **Waste**: Delays in communication.
+6. **Customer Education**:
     
-- Risk Integration: Integration with risk assessment models ensures consistency.
+    - **Trigger**: Onboarding session or materials are provided to the customer.
+    - **PT**: 1 hour (personal session, webinar, or material distribution).
+    - **LT**: 3 days (waiting for the customer to schedule and attend the session).
+    - **Waste**: Inefficient scheduling, delays in receiving materials.
+
+**Total Lead Time**: 11 days  
+**Total Process Time**: 3 hours 10 minutes  
+**Key Issues**: High dropout rate, errors due to manual processes, long waiting times, and customer frustration.
+
+### **Step 2: Analyze and Identify Waste**
+
+The current process includes several forms of waste:
+
+- **Waiting**: Significant delays between each step, especially during document review and verification.
+- **Defects**: Errors in application submission and document processing leading to rework.
+- **Overprocessing**: Manual verification processes that could be automated.
+- **Motion**: Excessive handling and movement of physical documents.
+
+### **Step 3: Define the Future State (After)**
+
+The future state involves automating processes, improving customer communication, and reducing waste to streamline onboarding.
+
+#### **Future State Value Stream Mapping**
+
+1. **Customer Inquiry**:
     
-
-#### 5. Approval/Rejection:
-
-- Automated Approval: Approval processes are automated with predefined criteria.
+    - **Trigger**: Customer expresses interest via an optimized digital platform with live chat support.
+    - **PT**: 5 minutes (instant responses and guidance).
+    - **LT**: Immediate.
+    - **Improvement**: Reduced drop-off with immediate follow-up and engagement.
+2. **Application Submission**:
     
-- Instant Notifications: Customers receive instant notifications through their preferred channels (SMS, email, app).
+    - **Trigger**: The customer completes the application on a user-friendly online platform with real-time validation.
+    - **PT**: 10 minutes (guided form with auto-fill and validation).
+    - **LT**: Immediate submission.
+    - **Improvement**: Eliminated errors, instant document upload, and validation.
+3. **Document Review & Identity Verification**:
     
-
-#### 6. Disbursement:
-
-- Automated Transfers: Funds are transferred automatically with integrated banking systems.
+    - **Trigger**: Automated document verification using AI and KYC tools.
+    - **PT**: 15 minutes (automated checks and verification).
+    - **LT**: 15 minutes.
+    - **Improvement**: Real-time verification, reduced need for manual intervention, and faster processing.
+4. **Account Setup**:
     
-- Consistent Communication: Customers receive consistent, automated updates throughout the process.
+    - **Trigger**: Account creation is automated upon successful verification.
+    - **PT**: 10 minutes (instant setup).
+    - **LT**: Immediate.
+    - **Improvement**: Instant account setup, no delays waiting for system updates.
+5. **Customer Notification**:
     
-
-### Continuous Monitoring and Analysis
-
-- Efficiency Improvements:
+    - **Trigger**: Automated notification sent immediately after account activation.
+    - **PT**: Instant.
+    - **LT**: Immediate.
+    - **Improvement**: Instant communication, customer receives immediate confirmation.
+6. **Customer Education**:
     
+    - **Trigger**: Automated onboarding materials are provided via email or an interactive app, with an option for a quick online tutorial.
+    - **PT**: 30 minutes (automated tutorial).
+    - **LT**: 1 day (if a customer schedules a session, otherwise immediate).
+    - **Improvement**: Self-paced learning, reduced delays, and increased customer understanding.
 
-- Time Reduction: Automation of data entry, credit checks, and underwriting reduces processing times.
+**Total Lead Time**: 1 day  
+**Total Process Time**: 1 hour 10 minutes  
+**Key Improvements**:
+
+- **Reduction in lead time** from 11 days to 1 day.
+- **Streamlined process**: Automation reduces manual work, errors, and waiting times.
+- **Customer experience**: Improved engagement, faster onboarding, and better access to resources.
+
+
+
+### Value stream mapping for a card management system of a bank 
+
+we will consider a bank with issues in their card management system. 
+The initial VSM would look like the following: 
+### **Step 1: Define the Current State (Before)**
+
+In the current state, the card management process is inefficient, with several pain points, delays, and waste.
+
+#### **Current State Value Stream Mapping**
+
+1. **Customer Request**:
     
-- Error Reduction: Automation decreases manual errors, improving accuracy.
+    - **Trigger**: A customer submits a request for a new card (e.g., online, via phone, or at a branch).
+    - **Process Time (PT)**: 15 minutes (filling out forms, verification).
+    - **Lead Time (LT)**: 1 day (until the request is processed).
+    - **Waste**: Customers often need to resubmit information due to errors or missing details.
+2. **Request Processing**:
     
-
-- Customer Experience:
+    - **Trigger**: The request is forwarded to the card management team.
+    - **PT**: 1 hour (verification, data entry, and approval).
+    - **LT**: 2 days (waiting for a batch process to run).
+    - **Waste**: Redundant manual checks, delayed processing due to batch runs.
+3. **Card Production**:
     
-
-- Enhanced Satisfaction: Unified platforms and instant notifications improve customer satisfaction and transparency.
+    - **Trigger**: Approved requests are sent to the card production unit.
+    - **PT**: 2 hours (printing, encoding, and quality check).
+    - **LT**: 3 days (waiting for production slot).
+    - **Waste**: Delays due to machine downtime or rework for defective cards.
+4. **Card Delivery**:
     
-
-- Collaboration:
+    - **Trigger**: Completed cards are handed over to a courier service.
+    - **PT**: 30 minutes (packaging, labeling).
+    - **LT**: 5 days (shipping to customer).
+    - **Waste**: Shipping delays, lost cards.
+5. **Card Activation**:
     
-
-- Breaking Silos: Integrated tools enhance communication and collaboration across departments.
+    - **Trigger**: Customer receives the card and activates it via phone or online.
+    - **PT**: 10 minutes (activation process).
+    - **LT**: 1 day (system updates and customer notification).
+    - **Waste**: Manual intervention required for failed activations.
+6. **Customer Notification**:
     
+    - **Trigger**: Confirmation sent to the customer about card activation.
+    - **PT**: 5 minutes.
+    - **LT**: Immediate.
 
-- Scalability:
+**Total Lead Time**: 12 days  
+**Total Process Time**: 3 hours 50 minutes  
+**Key Issues**: Long wait times, redundant processes, manual errors, frequent rework, and customer dissatisfaction.
+
+### **Step 2: Analyze and Identify Waste**
+
+In the current process, the following types of waste are present:
+
+- **Overproduction**: Producing cards in large batches leading to delays.
+- **Waiting**: Significant delays between steps, especially during batch processing.
+- **Transportation**: Delays during card shipping.
+- **Motion**: Excessive movement of physical forms and documents.
+- **Defects**: Rework due to errors in production or customer information.
+
+### **Step 3: Define the Future State (After)**
+
+To improve the process, automation, digitization, and lean practices will be implemented.
+
+#### **Future State Value Stream Mapping**
+
+1. **Customer Request**:
     
-
-- Increased Capacity: Standardized and automated processes allow the bank to handle higher volumes efficiently.
+    - **Trigger**: A customer submits a request for a new card via a streamlined digital platform.
+    - **PT**: 10 minutes (automatic data capture and verification).
+    - **LT**: Immediate processing.
+    - **Improvement**: Eliminated manual data entry errors, instant verification.
+2. **Request Processing**:
     
+    - **Trigger**: Automatically forwarded to the card management system.
+    - **PT**: 15 minutes (automated verification and approval).
+    - **LT**: 15 minutes.
+    - **Improvement**: Real-time processing, eliminated redundant checks.
+3. **Card Production**:
+    
+    - **Trigger**: Real-time order sent to the production unit.
+    - **PT**: 1 hour (automated and efficient production).
+    - **LT**: 1 day (scheduling optimized for daily production).
+    - **Improvement**: Continuous production, reduced machine downtime, and minimized rework.
+4. **Card Delivery**:
+    
+    - **Trigger**: Cards are immediately dispatched using same-day delivery services.
+    - **PT**: 15 minutes (packaging and labeling).
+    - **LT**: 1 day (expedited shipping).
+    - **Improvement**: Partnered with reliable couriers for faster delivery, tracking system implemented.
+5. **Card Activation**:
+    
+    - **Trigger**: Customer receives the card and activates it via a mobile app.
+    - **PT**: 2 minutes (instant activation).
+    - **LT**: Immediate.
+    - **Improvement**: Instantaneous system updates, reduced customer effort.
+6. **Customer Notification**:
+    
+    - **Trigger**: Automated notification sent to the customer.
+    - **PT**: Instant.
+    - **LT**: Immediate.
 
-Monitoring: The bank should continuously monitor the new system, assessing its impact on customer satisfaction (CSAT) and making iterative improvements as necessary.
+**Total Lead Time**: 2 days  
+**Total Process Time**: 1 hour 52 minutes  
+**Key Improvements**:
 
-  
-  
+- **Reduction in lead time** from 12 days to 2 days.
+- **Streamlined process**: Automation reduced manual errors, improved accuracy, and sped up processing.
+- **Customer satisfaction**: Faster service, less hassle, and better communication.
   
 
 11. # Annex 
