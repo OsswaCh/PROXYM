@@ -75,39 +75,24 @@ While Process enhancement depends on the type of action being taken, waste can b
 - Waste of defects and spoilage: Mitigated by improving staff expertise and supervision to prevent errors and reworks.
     
 
-// TODO: where is the cue timer + speak about added value 
+ 
 
 
 
 #### [Added Value of VSM](https://www.dozuki.com/blog/why-do-value-stream-mapping-benefits-examples#:~:text=Value%20stream%20mapping%2C%20or%20VSM,process%20for%20the%20customer's%20benefit.)
 
-Some of the benefits of adopting VSM are: 
-- facilitating the identification of wastes and bottlenecks in processes
-- easier continuous improvement as it becomes easier to finetune and streamline processes
-- reduction of time, cost and labor 
-- TODO: add benefits on customer
+Adopting value stream oriented practices is bound to have a lot of benefits on both the company and the customer: 
+[**Added value for the customer**:]([www.atlassian.com](https://www.atlassian.com/agile/value-stream-management))
+* **Increased customer satisfaction**: by enhancing the value stream, companies become more capable of quickly responding to customer requests and allows for more improvements of the customer experience 
+* **Higher quality products and services**: eliminating waste and inefficiencies leads to higher quality outputs  
+* **Faster delivery**: Streamlining processes reduces delays and bottlenecks, ensuring that products and services are delivered to customers more quickly 
+* **Better predictability**:  With a clear understanding of the value stream, organizations can reduce uncertainties and surprises, leading to more reliable delivery timelines
+* **Enhanced visibility**: Value stream management provides end-to-end visibility of processes, making it easier to track progress and address issues promptly.
+* **Cost reduction**: By eliminating waste and improving efficiency, organizations can reduce costs, which can be passed on to customers in the form of lower prices or better value. 
+* Continuous improvement: Engaging all stakeholders in collaborative improvement efforts ensures that the organization continuously evolves to meet customer needs more effectively.
 
-###  TODO: Graphical representation don’t think this 
-    
 
-[Value stream mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3259414/)  is designed to map information flows along with material flows, making it more suitable for analyzing and improving complex processes like those in hospitals. VSM provides a holistic view that includes both value-adding and non-value-adding activities.
 
-  
-
-TODO: current maps vs future maps 
-
-Keep this for later 
-
-  
-
-3. ### Value stream vs internal value chain
-    
-
-Value streams are usually visualized from the stakeholder’s viewpoint. And at this point we come the make the distinction between value streams and internal value chains. While value streams focus on how the value is achieved for the end customer, internal value chain describes the series of activities within an organization that add value to a product or service. In other terms  The value chain focuses on identifying the specific activities that add value to the organization’s products or services and seeks to optimize these activities to gain a competitive advantage. 
-
-Thus, the main difference is that while the value chain focuses on internal processes and how they add value within the organization, while value streams encompass the entire flow of activities needed to deliver value to the customer, often crossing organizational boundaries. And in terms of objective, value chains are aimed at identifing and optimizing the internal activities for competitive advantage while value streams take a more holistic view aiming at improving the overall flow of value to the customer by eliminating waste and increasing efficiency.
-
-TODO: keep before case study 
 
 ### [Value stream mapping VS Process maps](https://www.icagile.com/resources/value-stream-mapping-vs-process-mapping-definitions-features-benefits) 
     
@@ -150,8 +135,6 @@ These constitute the physical steps, along sides of them we have the [informatio
 In the 1990s James womack and Daniel Jones popularized “Lean thinking” setting the building blocks for the Lean Enterprise Institute. They highlighted VSM as a key technique for identifying value-added and non-value-added activities popularizing even more among diffirent businesses. Today, Organizations worldwide embraced lean principles, including VSM, to streamline processes and enhance efficiency.
 
   
-
-TODO: gratical representation 
 
 TODO: make a grafixal representation of the history
 
@@ -378,7 +361,15 @@ Is it still approved for orgs aimed at digital transformation + digital transfor
 
 //TODO: change this into into a big title of best practices and add maturity levels 
 
-## [The Value Stream Management Maturity Model](https://www.software.broadcom.com/hubfs/ValueOps%20Maturity/vsm-maturity-model-WP_BC-VO-2023_CE-3887_v16.pdf)
+## Value stream vs internal value chain
+    
+
+Value streams are usually visualized from the stakeholder’s viewpoint. And at this point we come the make the distinction between value streams and internal value chains. While value streams focus on how the value is achieved for the end customer, internal value chain describes the series of activities within an organization that add value to a product or service. In other terms  The value chain focuses on identifying the specific activities that add value to the organization’s products or services and seeks to optimize these activities to gain a competitive advantage. 
+
+Thus, the main difference is that while the value chain focuses on internal processes and how they add value within the organization, while value streams encompass the entire flow of activities needed to deliver value to the customer, often crossing organizational boundaries. And in terms of objective, value chains are aimed at identifing and optimizing the internal activities for competitive advantage while value streams take a more holistic view aiming at improving the overall flow of value to the customer by eliminating waste and increasing efficiency.
+
+## Best practices for value stream management 
+### [The Value Stream Management Maturity Model](https://www.software.broadcom.com/hubfs/ValueOps%20Maturity/vsm-maturity-model-WP_BC-VO-2023_CE-3887_v16.pdf)
 
 Broadcom has developed a VSM maturity model based on their experience and a global survey conducted by Dimensional Research. This model aims to assist organizations at various stages of VSM adoption. The outcome of the survey indicate that despite the fact that many organizations have started their VSM journey, only a small percentage (about 2%) have reached advanced stages of maturity.  
 This maturity level aims at helping more teams navigate their value stream journeys and achieve full maturity. 
@@ -467,14 +458,10 @@ Limited Team-Level Decision Making: Despite these advances, only 6% of responden
   
   
 
-## How o[rganizations fail when using VSM](https://www.linkedin.com/pulse/important-ways-we-fail-learn-from-toyota-david-verble/)
-    
+### [Bad practices when adopting VSM](https://www.linkedin.com/pulse/important-ways-we-fail-learn-from-toyota-david-verble/)
+     
 
-  
-
-// TODO: change the title and make it clearer 
-
-When observing how some companies try to adopt lean practices and specifically VSM, one can easily identify the reasons why tehy are struggling to make their experiences successful. Among these points of failure we can name: 
+When observing how some companies try to adopt lean practices and specifically VSM, one can easily identify the reasons why they are struggling to make their experiences successful. Among these points of failure we can name: 
 
 - Misconceptions about VSM: a lot of companies treat VSM as a mere visual artifcat rather than utilising for its initial purpose which is performance improvement. Consequently a lot of them fall into the trap of simply making the “current state map” and fail to update or integrate them with Future State designs, missing the point of continuous improvement. 
     
@@ -485,17 +472,8 @@ When observing how some companies try to adopt lean practices and specifically V
 - Lean Thinking vs. Doing Lean: implementing the lean tools (like VSM for instance)  true lean transformation requires adopting lean thinking. This means that a change of mentality is crucial to radically solve the problems that VSM tries to touch. 
     
 
-  
-  
 
-//TOASK: is this where we should start talking about global banking 
-
-//TOAS.he last one 
-
-  
-  
-
-# The historical development of banking channels toward omnichannels
+# The historical development of banking channels toward omnichannel
     
 
 //TODO: add graphics + elaborate 
@@ -536,51 +514,36 @@ In the 2010s, there was a common consensus for the need to unify the fronts of b
 
   
 
-### Focus on the customer(TODO customer crntricity) 
+### Customer centricity 
     
 
 Adapting an omnichannel approach meant an inevitable switch towayrds customer focused banking. And slowly we witnessed the immergence of customer journeys. This manifests in the following aspects: 
 
-- Customer-Centric Approach:
+- **Customer-Centric Approach:**
+	    
+	- Understanding needs, preferences, and pain points.
+	- Mapping end-to-end journeys (e.g., account opening, loan application).
+	- Identifying touchpoints and addressing friction
+
+- **Seamless Experiences:**
+	
+	- Customers seamlessly switch channels.	    
+	- Contextual information transfers.
+	- Personalized recommendations based on behavior.
     
 
-- Understanding needs, preferences, and pain points.
-    
-- Mapping end-to-end journeys (e.g., account opening, loan application).
-    
-- Identifying touchpoints and addressing friction.
-    
+- **Implementing technology enablers: 
 
-  
+	- [**APIs**:]([Omnichannel Banking: How to Implement It Properly (techmagic.co)](https://www.techmagic.co/blog/omnichannel-banking/)) APIs allow seamless integration between various banking channels (e.g., online banking, mobile apps, ATMs), providing a consistent and smooth experience. *External customers* can access their accounts and perform transactions effortlessly across different platforms. For *internal customer* on the other hand, APIs facilitate better communication and data sharing between different departments and systems within the bank, improving operational efficiency and enabling staff to provide quicker and more accurate service to customers.
 
-- Seamless Experiences:
-    
+	- **[Mobile Apps]([Omnichannel Banking: How to Implement It Properly (techmagic.co)](https://www.techmagic.co/blog/omnichannel-banking/))**:  serve as a convenient, central hub for all banking activities, allowing customers to manage their accounts, make payments, and access services anytime, anywhere. This enhances customer satisfaction by providing flexibility and ease of use. Employee oriented mobile apps can also be use to perform tasks on the go like scheduling meetings, internal communications and special inquiries.  
 
-- Customers seamlessly switch channels.
-    
-- Contextual information transfers.
-    
-- Personalized recommendations based on behavior.
-    
+	- **Data Analytics**: by making use of big data, banks will be able to oversee and even predict customer behavior and preferences enabling them to make more personalized adds or helping them in the choice of creating, continuing or discontinuing a product.[ This approach can increase customer satisfaction and loyalty on the shirt and log run.]([Omnichannel Banking: How to Implement It Properly (techmagic.co)](https://www.techmagic.co/blog/omnichannel-banking/))This being said we can see that using big data will also allow employees to make tailored decisions to optimize the marketing strategy  and identify opportunities for cross-selling and upselling, ultimately driving business growth.   	    
 
-- Implementing technology enablers(TODO: to satisfy internal and external customer): 
-    
-
-- APIs: Enable integration between channels.
-    
-- Mobile Apps: Central hub for banking activities.
-    
-- Data Analytics: Insights drive personalized offers. (TODO: big data?)
-    
-- Chatbots and AI: Assist across channels. (TODO: customer churn? How to use these tools use case ENGAGEMENT)
-    
-
+	- **Chatbots and AI**:  Chatbots will allow customers to have 24/7 customer support across different channels reducing wait times and improving the overall customer experience. [They can also help reduce customer churn by proactively addressing issues and providing personalized recommendations.  ]([Unlocking the power of chatbots: Key benefits for businesses and customers - IBM Blog](https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/))These Tools can also help employees whether it being by pattern recognition alert, or by handling routine inquiries and tasks, allowing employees [to be redirected towards solving more complex issues.]([Unlocking the power of chatbots: Key benefits for businesses and customers - IBM Blog](https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/))
   
 
 ### Potential challenges
-    
-
-// to do keep at the end 
 
   
 
@@ -736,7 +699,11 @@ Look at it from ppt
 
 ## [Value stream for banking](https://www.atlassian.com/blog/enterprise/accenture-vsm-banking#:~:text=Value%20stream%20management%20optimizes%20customer%20experience%20and%20digital%20innovation)
 
-In modern omnichannel banking, focus on the customer journey is not the issue since many already either did or are on their way to applying it to their culture. The actual challenge however is how to embed it  it into the operating structure of the organization. In today’s competitive banking environment. This comes to say that focusing solely on the customer journey with no regards to the infrastructure that makes it as well as digitilization possibl can lead to fewer customers and lower profits. 
+>   
+     “ Whenever there is a product for a customer, there is a value stream. The challenge lies in seeing it.” – Mike Rother and John Shook in ‘Learning to See: Value stream mapping to create value and eliminate muda’ (The Lean Enterprise Institute, 1999)
+
+
+In modern omnichannel banking, focus on the customer journey is not the issue since many already either did or are on their way to applying it to their culture. The actual challenge however is how to embed it  it into the operating structure of the organization. In today’s competitive banking environment. This comes to say that focusing solely on the customer journey with no regards to the infrastructure that makes it as well as digitalization possible can lead to fewer customers and lower profits. 
 
 It is in this context that  banks can stay ahead of competitors by accelerating their enterprise agility journey and adopting value stream management (VSM) practices.
 
@@ -746,15 +713,11 @@ It is in this context that  banks can stay ahead of competitors by accelerating
 
 To understand the necessity of VSM one must look at its history in the banking system.
 
-  
-
 Relationships between customers and banks was face to face:  In the past, customers would walk into a local branch and friendly employees would help them with current needs and future plans making customer satisfaction seen hands on through the customers. 
 
-  
 
 However, after the digital revolution,  those relationships have been replaced by automated processes creating a lack in the evaluation metrics pushing banks to often fall short when it comes to meeting customer expectations. 
 
-  
 
 This happens for three main reasons: 
 
@@ -1110,7 +1073,7 @@ Onboarding 
 Billpayement / card management 
 
 
-### [List Possible Banking Value Streams](https://www.capstera.com/product/bank-value-streams/)
+### [List of Possible Banking Value Streams](https://www.capstera.com/product/bank-value-streams/)
 
 1. Account Opening
 2. Account Closure
@@ -1194,11 +1157,8 @@ In the current state, the loan processing system may be inefficient, with delays
 **Total Process Time**: 8 hours  
 **Key Issues**: Delays due to manual processes, waiting times between steps, errors, and customer dissatisfaction.
 
+![[loan1.png]]
 
-
-Components of the value stream 
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRo3RDMjM4ktZGGmeMPFvEjc1uzNSHn4irvp0SfmibyRCQVR8hA_IuQBK19QGaWc11RB8pbOPj1__4WPq__rwOUq5NBIWvCiGMLmgEzTAECjci0kmwqg_4HWU_SH_hXKDKW_RuhjdwFViFkzvs82S03DH4?key=Nu8PMyX64obvw5Muh2vzug)
 
 ####  **Step 2: Analyze and Identify Waste**
 
@@ -1209,6 +1169,11 @@ The current process has the following forms of waste:
 - **Overprocessing**: Manual reviews and redundant checks that could be automated.
 - **Motion**: Excessive handling of documents and manual data entry.
 
+![[Loan2.png]]
+
+
+![[loan3.png]]
+*example of problem solving depending on the identified issue*
 #### **Step 3: Define the Future State (After)**
 
 The future state aims to reduce lead time and process time by automating key steps, improving communication, and eliminating waste.
@@ -1262,7 +1227,7 @@ The future state aims to reduce lead time and process time by automating key ste
 
 ”In this example, a bank could improve efficiency, reduce costs, and provide a better customer experience by applying value stream management approach to its loan process. Ultimately, this could help the bank to remain competitive and attract more customers.”
 
-  
+  ![[loan4.png]]
 
 ### [Value stream mapping for customer onboarding](https://www.vsmconsortium.org/blog/is-onboarding-a-value-stream) 
 
@@ -1410,11 +1375,11 @@ The future state aims to streamline the process through automation, better commu
 
 #### VSM for external customer onboarding
 This process starts from the moment a customer shows interest in the bank up until his full onboarding and beyond to ensure fidelity. 
-### **Step 1: Define the Current State (Before)**
+##### **Step 1: Define the Current State (Before)**
 
 In the current state, the customer onboarding process may be lengthy, with various bottlenecks and inefficiencies.
 
-#### **Current State Value Stream Mapping**
+###### **Current State Value Stream Mapping**
 
 1. **Customer Inquiry**:
     
@@ -1457,7 +1422,7 @@ In the current state, the customer onboarding process may be lengthy, with vario
 **Total Process Time**: 3 hours 10 minutes  
 **Key Issues**: High dropout rate, errors due to manual processes, long waiting times, and customer frustration.
 
-### **Step 2: Analyze and Identify Waste**
+##### **Step 2: Analyze and Identify Waste**
 
 The current process includes several forms of waste:
 
@@ -1466,7 +1431,7 @@ The current process includes several forms of waste:
 - **Overprocessing**: Manual verification processes that could be automated.
 - **Motion**: Excessive handling and movement of physical documents.
 
-### **Step 3: Define the Future State (After)**
+##### **Step 3: Define the Future State (After)**
 
 The future state involves automating processes, improving customer communication, and reducing waste to streamline onboarding.
 
@@ -1523,11 +1488,11 @@ The future state involves automating processes, improving customer communication
 
 we will consider a bank with issues in their card management system. 
 The initial VSM would look like the following: 
-### **Step 1: Define the Current State (Before)**
+#### **Step 1: Define the Current State (Before)**
 
 In the current state, the card management process is inefficient, with several pain points, delays, and waste.
 
-#### **Current State Value Stream Mapping**
+##### **Current State Value Stream Mapping**
 
 1. **Customer Request**:
     
@@ -1569,7 +1534,7 @@ In the current state, the card management process is inefficient, with several p
 **Total Process Time**: 3 hours 50 minutes  
 **Key Issues**: Long wait times, redundant processes, manual errors, frequent rework, and customer dissatisfaction.
 
-### **Step 2: Analyze and Identify Waste**
+#### **Step 2: Analyze and Identify Waste**
 
 In the current process, the following types of waste are present:
 
@@ -1579,11 +1544,11 @@ In the current process, the following types of waste are present:
 - **Motion**: Excessive movement of physical forms and documents.
 - **Defects**: Rework due to errors in production or customer information.
 
-### **Step 3: Define the Future State (After)**
+#### **Step 3: Define the Future State (After)**
 
 To improve the process, automation, digitization, and lean practices will be implemented.
 
-#### **Future State Value Stream Mapping**
+##### **Future State Value Stream Mapping**
 
 1. **Customer Request**:
     
@@ -1628,7 +1593,114 @@ To improve the process, automation, digitization, and lean practices will be imp
 - **Reduction in lead time** from 12 days to 2 days.
 - **Streamlined process**: Automation reduced manual errors, improved accuracy, and sped up processing.
 - **Customer satisfaction**: Faster service, less hassle, and better communication.
-  
+
+### Value Stream mapping for an account creation 
+#### Step 1: Define the Current State (Before)
+
+In the current state, the account opening process may involve several manual steps, leading to delays and inefficiencies.
+
+##### Current State Value Stream Mapping
+
+1. **Customer Inquiry**:
+    
+    - **Trigger**: A potential customer inquires about opening an account (online, via phone, or at a branch).
+    - **Process Time (PT)**: 15 minutes (customer service explains the process and requirements).
+    - **Lead Time (LT)**: 1 day (waiting for customer to decide and gather documents).
+    - **Waste**: Delays in providing information, potential customer drop-off due to complexity.
+2. **Application Submission**:
+    
+    - **Trigger**: Customer submits the account opening application along with required documents.
+    - **PT**: 20 minutes (filling out the application form).
+    - **LT**: 2 days (waiting for the application to be reviewed by bank staff).
+    - **Waste**: Errors in manual data entry, incomplete applications requiring follow-up.
+3. **Document Verification**:
+    
+    - **Trigger**: The bank’s operations team verifies the submitted documents (e.g., ID, proof of address).
+    - **PT**: 1 hour (manual document review and verification).
+    - **LT**: 3 days (waiting for the verification process to complete).
+    - **Waste**: Manual checks, rework due to incomplete or incorrect documents.
+4. **Compliance & Risk Assessment**:
+    
+    - **Trigger**: Compliance team performs KYC (Know Your Customer) checks and assesses the risk of the new account.
+    - **PT**: 2 hours (manual risk assessment and approval process).
+    - **LT**: 4 days (waiting for all checks to be completed).
+    - **Waste**: Delays due to manual processes and coordination between departments.
+5. **Account Setup**:
+    
+    - **Trigger**: Upon approval, the account is set up in the bank’s system.
+    - **PT**: 30 minutes (account creation and system updates).
+    - **LT**: 1 day (waiting for system updates and notifications).
+    - **Waste**: Delays in system processing and notification.
+6. **Customer Notification & Activation**:
+    
+    - **Trigger**: Customer is notified that the account is active and provided with account details.
+    - **PT**: 10 minutes (sending notification and instructions for account use).
+    - **LT**: 1 day (delays in communication and activation).
+    - **Waste**: Manual notification processes, delayed customer engagement.
+
+**Total Lead Time**: 12 days  
+**Total Process Time**: 4 hours 15 minutes  
+**Key Issues**: Long waiting times, manual errors, inefficient communication, and customer dissatisfaction.
+
+#### Step 2: Analyze and Identify Waste
+
+The current process includes the following waste:
+
+- **Waiting**: Significant delays between steps, particularly in document verification, compliance checks, and account setup.
+- **Defects**: Errors in application and document submission leading to rework.
+- **Overprocessing**: Manual verification and compliance checks that could be automated.
+- **Motion**: Excessive movement of documents and manual data entry.
+
+#### Step 3: Define the Future State (After)
+
+The future state aims to streamline the account opening process by automating key steps, improving communication, and reducing waste.
+
+##### Future State Value Stream Mapping
+
+1. **Customer Inquiry**:
+    
+    - **Trigger**: Customer initiates the process through an optimized digital platform with live support.
+    - **PT**: 5 minutes (instant access to information and guidance).
+    - **LT**: Immediate.
+    - **Improvement**: Immediate customer engagement, reduced drop-off rate.
+2. **Application Submission**:
+    
+    - **Trigger**: Customer completes the application online using a guided form with real-time validation.
+    - **PT**: 10 minutes (auto-fill and validation reduce errors).
+    - **LT**: Immediate.
+    - **Improvement**: Instant submission, automated data entry, and error reduction.
+3. **Document Verification**:
+    
+    - **Trigger**: Documents are uploaded via a secure portal with automated verification tools.
+    - **PT**: 15 minutes (automated document checks and validation).
+    - **LT**: 1 hour (instant verification).
+    - **Improvement**: Reduced manual work, faster document verification, and fewer errors.
+4. **Compliance & Risk Assessment**:
+    
+    - **Trigger**: Automated KYC checks and risk assessment begin immediately after document verification.
+    - **PT**: 30 minutes (automated checks using AI/ML models).
+    - **LT**: 1 day (real-time risk assessment).
+    - **Improvement**: Automated and quicker compliance checks, reducing the need for manual intervention.
+5. **Account Setup**:
+    
+    - **Trigger**: The account is created automatically after compliance approval.
+    - **PT**: 10 minutes (automated system setup).
+    - **LT**: Immediate.
+    - **Improvement**: Instant account creation, no waiting for system updates.
+6. **Customer Notification & Activation**:
+    
+    - **Trigger**: Automated notification is sent to the customer with account details and activation instructions.
+    - **PT**: 5 minutes (instant notification and instructions).
+    - **LT**: Immediate.
+    - **Improvement**: Instant communication, enabling the customer to start using the account immediately.
+
+**Total Lead Time**: 1 day  
+**Total Process Time**: 1 hour 15 minutes  
+**Key Improvements**:
+
+- **Reduction in lead time** from 12 days to 1 day.
+- **Streamlined processes**: Automation reduces manual work, errors, and waiting times.
+- **Customer experience**: Faster, more efficient account opening process, leading to higher satisfaction.
 
 11. # Annex 
     
@@ -1646,6 +1718,3 @@ To improve the process, automation, digitization, and lean practices will be imp
 - Toyota production system
     
 - product family
-    
-
-**
