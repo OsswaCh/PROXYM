@@ -121,7 +121,7 @@ The issue with Ford’s approach is that it was not easily scalable. At the time
 
 Despite being left out by ford and his contemporaries, the production flow principles were rediscovered by Taiichi Ohno*, the originator of  the Toyota production system* after the end of WW2. One this he always said is “I learned everything I know from Henry Ford, except I found a way, to do it with high variety and low volume. Ford can only do it with low variety and high volume”(LEO, n.d.) The main goal behind their innovation was to create a product journey centered around the customer and that focuses in efficient production while maintaining  high variety and low volume. 
 
-The Toyota team then then came to create the concept of value stream mapping where for each product family* they detailed every step of the creation of either the entire product on its indivisual components. 
+The Toyota team then  came to create the concept of value stream mapping where for each product family* they detailed every step of the creation of either the entire product on its indivisual components. 
 
 The mapping then goes as follows: we have the raw elements that will eventually make their way to the customer in a different form: final product. Identify the individual steps of that process in each one of them, and then start your classification: which of these steps are waste and which are value that the customer would be willing to finance. 
 
@@ -132,13 +132,22 @@ These constitute the physical steps, along sides of them we have the [informatio
 ### Lean Thinking and global adoption 
     
 
-In the 1990s James womack and Daniel Jones popularized “Lean thinking” setting the building blocks for the Lean Enterprise Institute. They highlighted VSM as a key technique for identifying value-added and non-value-added activities popularizing even more among diffirent businesses. Today, Organizations worldwide embraced lean principles, including VSM, to streamline processes and enhance efficiency.
+In the 1990s James Womack and Daniel Jones popularized “Lean thinking” setting the building blocks for the Lean Enterprise Institute. They highlighted VSM as a key technique for identifying value-added and non-value-added activities popularizing even more among diffirent businesses. Today, Organizations worldwide embraced lean principles, including VSM, to streamline processes and enhance efficiency.
 
-  
 
-TODO: make a grafixal representation of the history
+### Today
 
-speak about the extension to other fields even (SAFe methodology) other desciplines 
+
+- **Lean and Agile Integration**: Value Stream Mapping has increasingly been integrated into Agile frameworks, especially with the rise of the Scaled Agile Framework (SAFe). In SAFe, VSM is crucial for identifying and optimizing value streams, which are central to delivering continuous value to customers. SAFe defines both _operational_ and _development_ value streams, and VSM helps organizations map these streams to reduce bottlenecks, improve flow, and align organizational strategies with customer needs.
+    
+- **Digital Transformation**: VSM has also been adapted for software and IT environments, moving beyond its manufacturing roots. In DevOps, for example, VSM helps teams visualize and optimize the flow of code from development to deployment, ensuring faster and more reliable delivery. Tools like Tasktop, Plutora, and ServiceNow have incorporated VSM to support continuous delivery and enterprise agility.
+    
+- **Healthcare**: The adoption of VSM in healthcare has grown, focusing on improving patient care processes and reducing waste in hospitals and clinics. VSM is applied in areas like patient flow, supply chain management, and administrative processes, leading to more efficient and patient-centered care.
+    
+- **Hybrid and Remote Workflows**: As organizations shift to hybrid and remote work models, digital VSM tools like Lucidchart, Miro, and LeanIX have gained popularity. These tools facilitate virtual collaboration, enabling distributed teams to create, share, and analyze value streams in real-time.
+  ![[Timeline Infographic.jpg]]
+
+
 
   
 
@@ -474,18 +483,13 @@ When observing how some companies try to adopt lean practices and specifically V
 
 
 # The historical development of banking channels toward omnichannel
-    
 
-//TODO: add graphics + elaborate 
-
+![[white-background-designify.png]]
 ## Transactional era 
     
 
 Historically, banks revolved mainly around transactions. Customers visited physical branches for routine tasks like deposits and withdrawals. Operations were fairely simple as a bank had to only manage its internal affairs withing the one or multiple branches they had. All documentation and processes were handled manually. 
 
-  
-
-// TODO: monoagence in B
 
 ## Multichannel Approach
     
@@ -495,31 +499,30 @@ As technology advanced, and specifically during the technological boom,banks int
   
 
 ## Bidirectional Omnichannel 
-    
 
-//TODO: add bidirectional 
+In the 2010s, there was a common consensus for the need to unify the fronts of banks. In other words we marked the emergence of omnichannel banking to integrated a seemless user experience.
+### Unidirectional omnichannel banking 
 
-  
+Unidirectional omnichannel banking refers to a system where information flows in one direction—from the bank to the customer. This approach primarily focuses on providing consistent information and services across various channels (e.g., online banking, mobile apps, ATMs) without much interaction or feedback from the customer. 
+Some of its characteristics include : 
+- **consistent communication**: Ensuring that customers receive the same information regardless of the channel they use. 
+- **Channel-Specific Services**: Each channel operates independently, offering specific services tailored to that medium.
+- **Limited Interaction**: Minimal customer feedback or interaction is integrated into the system.
+### Bidirectional omnichannel banking
 
-In the 2010s, there was a common consensus for the need to unify the fronts of banks. In other words we marked the emergence of omnichannel banking to integrated a seemless user experience. This new approach focuses on four key concepts: 
-
-- Integration: Channels connected to provide a unified view of customer data.
-    
-- Consistency: Customers received uniform service across touchpoints.(TODO: kept history among different channels)
-    
-- Personalization: Data-driven insights enabled tailored interactions.
-    
-- Contextual Journeys: Understanding customer context allowed proactive engagement.( TODO: digital engagelt platform)
-    
-
+Bidirectional omnichannel banking, on the other hand, involves a two-way flow of information between the bank and the customer. This approach emphasizes interaction, feedback, and a seamless experience across all channels. In other words, this new approach is meant to emphasize the importance of the internal customer of the bank, i.e. the employee. By recognizing that the experience of the internal employee is indispensable in ensure customer satisfaction, banks can achieve maximum efficiency. 
+It focuses on the following characteristics: 
+- **Integrated Channels**: All channels are interconnected, allowing customers to start a transaction on one channel and complete it on another.
+- **Personalized Experience**: Customer data and feedback are used to tailor services and offers, enhancing the overall experience.
+- **Real-Time Interaction**: Customers can interact with the bank in real-time, providing feedback and receiving immediate responses.
   
 
 ### Customer centricity 
     
 
-Adapting an omnichannel approach meant an inevitable switch towayrds customer focused banking. And slowly we witnessed the immergence of customer journeys. This manifests in the following aspects: 
+Adapting an omnichannel approach meant an inevitable switch towards customer focused banking. And slowly we witnessed the immergence of customer journeys. This manifests in the following aspects: 
 
-- **Customer-Centric Approach:**
+- **Customer-Centric Approach (internal and external):**
 	    
 	- Understanding needs, preferences, and pain points.
 	- Mapping end-to-end journeys (e.g., account opening, loan application).
@@ -527,7 +530,7 @@ Adapting an omnichannel approach meant an inevitable switch towayrds customer fo
 
 - **Seamless Experiences:**
 	
-	- Customers seamlessly switch channels.	    
+	- Customers whether internal or external seamlessly switch channels.	    
 	- Contextual information transfers.
 	- Personalized recommendations based on behavior.
     
@@ -545,34 +548,23 @@ Adapting an omnichannel approach meant an inevitable switch towayrds customer fo
 
 ### Potential challenges
 
-  
+- **Data integration**: integrating data from various channels is starting to inevitably present itself as a big issue for banks aiming at becoming omnichanneled
 
-- Data Privacy: Balancing personalization with privacy.
-    
-- Channel Proliferation: Managing new channels (e.g., social media, voice assistants).
-    
-- Hyper-Personalization: AI-driven recommendations.
-    
-- Physical-Digital Blend: Branches as advisory centers. (TODO:Figital)
-    
-- TODO: the inevitable banking crisis + budget cuts
-    
-- TODO: scalability due to big data and real time and availability
-    
+- **Resource constraints**:  A technological shift of this level is very resource demanding. And in the light of lack of resources and investment can hinder the successful implementation of an omnichannel strategy.
 
-  
-  
+* **Siloed Organizational Structure**: The current structure of many banks consists of having many departments working in silos which can lead to poor communication and coordination, affecting the customer experience.
+
+* Legacy systems: Outdated legacy systems can be difficult to integrate with new digital platforms.
+
+* **Customer data security**:  Ensuring the security of customer data across multiple channels is a significant challenge.
+
+- **Regulatory Compliance**: Navigating complex regulatory banking requirements across different channels can be challenging.
+
+-  **Inconsistent Customer Experience**: synchronizing multiple channels and maintaining a consistent and secure data flow between them is difficult. 
+
   
 
 // TODO how boderectional focuses on the enterbal customer 
-
-However they still facing these challenges and supported by enable ETD 
-
-  
-  
-  
-  
-  
 
 # Value streams VS customer journey 
     
