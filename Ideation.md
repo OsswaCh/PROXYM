@@ -1,9 +1,11 @@
 
 ## Key concepts
 
-### Customer journey
 
-The customer journey refers to the complete experience a customer has with a brand or company across multiple touchpoints and stages, from initial awareness through to post-purchase interactions and beyond. 
+
+[[### Customer journey]]
+
+The customer refers to the complete experience a customer has with a brand or company across multiple touchpoints and stages, from initial awareness through to post-purchase interactions and beyond. 
 
 It encompasses every interaction, whether direct or indirect, that contributes to the customer’s perception and relationship with the brand. ⇒ it’s the series of interactions a customer has with a specific company or service as they become aware of a pain point and make a purchase decision
 

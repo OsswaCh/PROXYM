@@ -1,4 +1,4 @@
-**
+	**
 
 # Introduction
 
@@ -594,10 +594,46 @@ Being fully aware of the customer journey will inevitably lead to lot of added v
 
 ### [Customer journey maps ](https://www.salesforce.com/products/marketing-cloud/best-practices/customer-journeys/)
 
-A customer journey map is a diagram that tracks all the interaction point between the customer and the product during the six stages of customer engagement. The map should be tailored to the business need as the different types of channels and target costumers affects the number of journey maps needed. This all aimed at ensuring maximum customization git 
+A customer journey map is a diagram that tracks all the interaction point between the customer and the product during the six stages of customer engagement. The map should be tailored to the business need as the different types of channels and target costumers affects the number of journey maps needed. This all aimed at ensuring maximum customization utilizing the collected customer data.  
+
+**Identify your audience**
+In order to create a meaningful journey we must first know who we are targeting and what their pain points are in order to put yourself in their shoes and actually understand their behaviors and needs. 
+some of the questions that we need to ask include but are not limited to: 
+- what demographic specifications unite our customers
+- what do they want
+- how they expect to receive it
+- what disappoints them the most
+- how are their choices about the purchase are being made
 
 
-  
+**Define the steps**
+
+This step defines the usual development of a customer interaction with your company. 
+[SalesForce](https://www.salesforce.com/products/marketing-cloud/best-practices/customer-journeys/)gives an example of how a typical customer progression looks like: 
+
+>- Defining a need  
+>- Searching for information online
+>- Visiting a brand website
+>- Exploring features and benefit
+>- Comparing brands and prices
+>- Making a purchase
+>- Setting up/unboxing
+>- Initial usage
+>- Continuing usage
+>- Troubleshooting
+>- Needing to upgrade
+>- Researching options for upgrade
+>- Comparing brands and prices
+>- Making a decision to stay or leave
+
+**List your brand’s touchpoints** : This refers to the physical or digital locations where the customer interacts with your brand or product. This includes adds, stores, applications, platforms etc. 
+
+**Identify the data you want to track** :specify what you want to know and how you want to collect it. 
+
+**Think about your content**: Providing relevant content to your customers is the foundations of building a good relationship with them. We must look at the content we are currently providing analyze how well the customers consume it as well as how effective it is to keep the customers.  
+
+**Choose your channels**: Based on the chosen analytics, choosing the appropriate platform for establishing touchpoints is fairly straightforward. This platform should be able to make "meaningful moments" with the customer as well have a great impact on their decisions. 
+
 
 ## Value streams Vs customer journeys, are they the same
     
@@ -613,7 +649,7 @@ On the other hand a customer journey is how the customer gets in contact with th
 1. Data collection
     
 
-With a focus on the customer rather then the product, we can see that VSM focuses how long the product will take to reach the customer after a change and how the customer will react to it (ignoring the benefits it might have on the business itself). Customer journey data collection however, focuses on how fast and how much of your product will the customer by and how enjoyable the buyign experience will be for them. 
+With a focus on the customer rather then the product, we can see that VSM focuses how long the product will take to reach the customer after a change and how the customer will react to it (ignoring the benefits it might have on the business itself). Customer journey data collection however, focuses on how fast and how much of your product will the customer by and how enjoyable the buying experience will be for them. 
 
   
 
@@ -627,7 +663,7 @@ Value streams are internal processes within a business, whereas customer journey
 3. Interconnectedness
     
 
-While being seperated in principle, the two concepts are still fairly connected in their end goal. 
+While being separated in principle, the two concepts are still fairly connected in their end goal. 
 
 Let’s take an example of taking out a loan: 
 
