@@ -181,9 +181,6 @@ Thus, for the rest of the  case study we will be focusing only on L-group KPIs 
 Before implementing any changes to the value stream, here’s how the current state map looked like: 
 
   
-
-//TODO: insert before state
-
 [Value Stream Mapping Demonstration on Real Case Study](https://www.sciencedirect.com/science/article/pii/S1877705815004269?ref=pdf_download&fr=RR-2&rr=8a53c8748c807781)
 
   
@@ -360,16 +357,6 @@ Thus, the proposed solutions must include digital ordering systems, SOPs, kanban
 
 The paper concludes by praising the efficiency of the the adaptation of VSM as it presented itself as a crucial tool in not only visualizing process flows comprehensively but also in strategizing to reduce waste effectively across complex systems like healthcare. By following the lean guidelines, the organization was able to identify inefficiencies streamline processes, and enhance overall operational efficiency.
 
-  
-
-//TODO: link to IT + example : devops and widely adopted 
-
-Is it still approved for orgs aimed at digital transformation + digital transformation + benefits for orgs seeking that 
-
-  
-
-//TODO: change this into into a big title of best practices and add maturity levels 
-
 ## Value stream vs internal value chain
     
 
@@ -479,7 +466,12 @@ When observing how some companies try to adopt lean practices and specifically V
 -  Not following Toyota’s management approach for VSM: managers aught to use VSM to identify barriers to flow and quality, then create annual plans aligned with strategic priorities (hoshin). Teams systematically address these barriers through continuous problem solving. For more concrete examples of how this can be done,  Weekly activities like Jushiken bring together teams to map flows, balance operations, conduct experiments, and redesign processes to tackle significant workflow issues.
     
 - Lean Thinking vs. Doing Lean: implementing the lean tools (like VSM for instance)  true lean transformation requires adopting lean thinking. This means that a change of mentality is crucial to radically solve the problems that VSM tries to touch. 
-    
+
+
+## Conclusion 
+Value streams are the new direction for businesses and manufactures that allows them to increase productivity, reduce waste and most importantly ensure customer satisfaction. 
+This work methodology peaked especially during the technological boom of enterprises as it was recommended by entities such as SAFe and Lean Enterprise institute. This goes to say that value streams aim at ensuring a maximum customer satisfaction through an efficient integration of efficient analysis tools within the processes. 
+This fluid nature allowed it to easily make its way to the a variety of different fields. We saw together how it started in car manufacturing companies, and made its way to the health as well as multiple B2B and B2C ones. But along side them, we particularly saw a major rise in its adaptation within the [tech industry and digital product delivery](https://www.vsmconsortium.org/blog/the-evolution-of-value-stream-management-and-the-digital-twin). It bridges the gap between management and production allowing for better execution and better integration of agile methodologies.    
 
 
 # The historical development of banking channels toward omnichannel
@@ -563,9 +555,6 @@ Adapting an omnichannel approach meant an inevitable switch towards customer foc
 -  **Inconsistent Customer Experience**: synchronizing multiple channels and maintaining a consistent and secure data flow between them is difficult. 
 
   
-
-// TODO how boderectional focuses on the enterbal customer 
-
 # Value streams VS customer journey 
     
 
@@ -602,9 +591,11 @@ Being fully aware of the customer journey will inevitably lead to lot of added v
 - Increased Retention: Focusing on the post-purchase stages helps retain customers, which is often more cost-effective than acquiring new ones.
     
 - Better Customer Insights: Mapping the journey provides valuable insights into customer behavior, preferences, and pain points, enabling more informed business decisions.
-    
 
-//TOASK: should we elaborate more on customer journeys? 
+### [Customer journey maps ](https://www.salesforce.com/products/marketing-cloud/best-practices/customer-journeys/)
+
+A customer journey map is a diagram that tracks all the interaction point between the customer and the product during the six stages of customer engagement. The map should be tailored to the business need as the different types of channels and target costumers affects the number of journey maps needed. This all aimed at ensuring maximum customization git 
+
 
   
 
